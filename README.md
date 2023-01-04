@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinkariuki7
 - 👀 I’m interested in UX & Javascricpt
-- 🌱 I’m currently React
+- 🌱 I’m currently learning React
 - 📫 How to reach me ux@martinkariuki.com
 
 <!---
