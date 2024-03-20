@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinkariuki7
 - 👀 I’m interested in UX & Javascricpt
-- 🌱 I’m currently learning Node JS & juggling ⚾ 🤹🏼‍♂️
+- 🌱 I’m currently learning groq & juggling ⚾ 🤹🏼‍♂️
 - 📫 How to reach me ux@martinkariuki.com
 
 <!---
